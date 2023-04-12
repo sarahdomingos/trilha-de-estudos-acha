@@ -16,7 +16,7 @@ O sistema operacional Linux é muito utilizado em CTFs e é fundamental que voc�
 - ### [Fundamentos de Linux 3](https://tryhackme.com/room/linuxfundamentalspart3)
 
 # Redes
-é importante ter um conhecimento sólido em rede de computadores, recomendamos que você faça cursos de Introdução à Rede de Computadores e Fundamentos de Rede de Computadores. Isso irá ajudá-lo a compreender os conceitos básicos de protocolos, endereçamento IP e outros tópicos importantes para a segurança em redes.
+É importante ter um conhecimento sólido em rede de computadores, recomendamos que você faça cursos de Introdução à Rede de Computadores e Fundamentos de Rede de Computadores. Isso irá ajudá-lo a compreender os conceitos básicos de protocolos, endereçamento IP e outros tópicos importantes em segurança de redes.
 
 - ### [Introdução de Rede de Computadores](https://tryhackme.com/room/whatisnetworking)
 - ### [Fundamentos de Rede de Computadores](https://tryhackme.com/room/introtonetworking)
@@ -25,7 +25,7 @@ O sistema operacional Linux é muito utilizado em CTFs e é fundamental que voc�
 As técnicas de reconhecimento e enumeração são fundamentais em testes de penetração. Elas ajudam a identificar hosts e serviços em uma rede, bem como a coletar informações sobre alvos específicos. Dentre as técnicas utilizadas, destacam-se o reconhecimento ativo, que envolve a exploração de vulnerabilidades conhecidas em aplicações e sistemas operacionais, e o uso de ferramentas como o Nmap e o ffuf para mapear redes, identificar serviços e vulnerabilidades.
 
 - ### [Reconhecimento Ativo](https://tryhackme.com/room/activerecon)
-- ### [Nap](https://tryhackme.com/room/furthernmap) 
+- ### [Nmap](https://tryhackme.com/room/furthernmap) 
 - ### [ffuf](https://tryhackme.com/room/ffuf)
 
 # Web
