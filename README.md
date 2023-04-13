@@ -41,7 +41,7 @@ A segurança em aplicações web é um assunto importante em CTFs, e compreende 
 Este tópico oferece uma introdução aos conceitos básicos de criptografia, e de uma ferramenta popular, baseada em força bruta, para quebra de criptografia.
 
 - ### [Fundamentos de criptografia 1](https://tryhackme.com/room/cryptographyintro)
-- ### [Fundamentos de criptografia 1](https://tryhackme.com/room/encryptioncrypto101)
+- ### [Fundamentos de criptografia 2](https://tryhackme.com/room/encryptioncrypto101)
 - ### [Hydra](https://tryhackme.com/jr/hydra)
 
 # Scripting
