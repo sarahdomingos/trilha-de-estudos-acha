@@ -6,32 +6,32 @@ Para começar, recomendamos que você faça um tutorial de como usar uma platafo
 
 - ### [Tutorial de como usar o TryHackMe](https://tryhackme.com/room/tutorial)
 - ### [Carreiras na área de segurança](https://tryhackme.com/room/startingoutincybersec)
-- ### [Introdução à Segurança Ofensiva](https://tryhackme.com/room/introtooffensivesecurity)
+- ### [Introdução à Segurança Ofensiva](https://tryhackme.com/room/introtooffensivesecurity) ✅
 
 # Linux
 O sistema operacional Linux é muito utilizado em CTFs e é fundamental que você tenha conhecimento sobre ele. Sugerimos que você comece com os Fundamentos de Linux 1, 2 e 3. Isso deve fornecer uma base para seguir com o resto do curso.
 
-- ### [Fundamentos de Linux 1](https://tryhackme.com/room/linuxfundamentalspart1)
-- ### [Fundamentos de Linux 2](https://tryhackme.com/room/linuxfundamentalspart2)
-- ### [Fundamentos de Linux 3](https://tryhackme.com/room/linuxfundamentalspart3)
+- ### [Fundamentos de Linux 1](https://tryhackme.com/room/linuxfundamentalspart1) ✅
+- ### [Fundamentos de Linux 2](https://tryhackme.com/room/linuxfundamentalspart2) ✅
+- ### [Fundamentos de Linux 3](https://tryhackme.com/room/linuxfundamentalspart3) ✅
 
 # Redes
 É importante ter um conhecimento sólido em rede de computadores, recomendamos que você faça cursos de Introdução à Rede de Computadores e Fundamentos de Rede de Computadores. Isso irá ajudá-lo a compreender os conceitos básicos de protocolos, endereçamento IP e outros tópicos importantes em segurança de redes.
 
-- ### [Introdução de Rede de Computadores](https://tryhackme.com/room/whatisnetworking)
-- ### [Fundamentos de Rede de Computadores](https://tryhackme.com/room/introtonetworking)
+- ### [Introdução de Rede de Computadores](https://tryhackme.com/room/whatisnetworking) ✅
+- ### [Fundamentos de Rede de Computadores](https://tryhackme.com/room/introtonetworking) ✅
 
 # Técnicas de Reconhecimento e Enumeração
 As técnicas de reconhecimento e enumeração são fundamentais em testes de penetração. Elas ajudam a identificar hosts e serviços em uma rede, bem como a coletar informações sobre alvos específicos. Dentre as técnicas utilizadas, destacam-se o reconhecimento ativo, que envolve a exploração de vulnerabilidades conhecidas em aplicações e sistemas operacionais, e o uso de ferramentas como o Nmap e o ffuf para mapear redes, identificar serviços e vulnerabilidades.
 
-- ### [Reconhecimento Ativo](https://tryhackme.com/room/activerecon)
+- ### [Reconhecimento Ativo](https://tryhackme.com/room/activerecon) ✅
 - ### [Nmap](https://tryhackme.com/room/furthernmap) 
 - ### [ffuf](https://tryhackme.com/room/ffuf)
 
 # Web
 A segurança em aplicações web é um assunto importante em CTFs, e compreende a identificação de vulnerabilidades comuns em aplicações, e um bom entendimento do protocolo HTTP, incluindo seus métodos, códigos de status e cabeçalhos, além do uso de ferramentas para análise de tráfego HTTP.
 
-- ### [HTTP em detalhes](https://tryhackme.com/room/httpindetail)
+- ### [HTTP em detalhes](https://tryhackme.com/room/httpindetail) ✅
 - ### [Introdução à segurança em aplicações web](https://tryhackme.com/room/introwebapplicationsecurity)
 - ### [Top 10 mais críticos riscos da segurança web](https://tryhackme.com/room/owasptop10)
 - ### [Burpsuite: O básico](https://tryhackme.com/room/burpsuitebasics)
