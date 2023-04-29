@@ -5,7 +5,7 @@ A seguir, apresentamos uma trilha de estudos para CTFs que abrange diversos tóp
 Para começar, recomendamos que você faça um tutorial de como usar uma plataforma de prática de hacking ético, como o TryHackMe. Isso ajudará você a se familiarizar com as ferramentas necessárias para as próximas etapas, como criação de máquinas virtuais e VPN. Também é interessante que você se familiarize com as possibilidades de carreira na área de segurança da informação. Conhecer as diferentes áreas e funções permitirá que você direcione seus estudos de acordo com seus objetivos profissionais. 
 
 - ### [Tutorial de como usar o TryHackMe](https://tryhackme.com/room/tutorial)
-- ### [Carreiras na área de segurança](https://tryhackme.com/room/startingoutincybersec)
+- ### [Carreiras na área de segurança](https://tryhackme.com/room/startingoutincybersec) ✅
 - ### [Introdução à Segurança Ofensiva](https://tryhackme.com/room/introtooffensivesecurity) ✅
 
 # Linux
