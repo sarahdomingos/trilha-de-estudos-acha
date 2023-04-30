@@ -32,7 +32,7 @@ As técnicas de reconhecimento e enumeração são fundamentais em testes de pen
 A segurança em aplicações web é um assunto importante em CTFs, e compreende a identificação de vulnerabilidades comuns em aplicações, e um bom entendimento do protocolo HTTP, incluindo seus métodos, códigos de status e cabeçalhos, além do uso de ferramentas para análise de tráfego HTTP.
 
 - ### [HTTP em detalhes](https://tryhackme.com/room/httpindetail) ✅
-- ### [Introdução à segurança em aplicações web](https://tryhackme.com/room/introwebapplicationsecurity)
+- ### [Introdução à segurança em aplicações web](https://tryhackme.com/room/introwebapplicationsecurity) ✅
 - ### [Top 10 mais críticos riscos da segurança web](https://tryhackme.com/room/owasptop10)
 - ### [Burpsuite: O básico](https://tryhackme.com/room/burpsuitebasics)
 - ### [Introdução ao Metasploit](https://tryhackme.com/room/metasploitintro)
