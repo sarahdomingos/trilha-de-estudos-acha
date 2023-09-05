@@ -4,7 +4,7 @@ A seguir, apresentamos uma trilha de estudos para CTFs que abrange diversos tóp
 # Início
 Para começar, recomendamos que você faça um tutorial de como usar uma plataforma de prática de hacking ético, como o TryHackMe. Isso ajudará você a se familiarizar com as ferramentas necessárias para as próximas etapas, como criação de máquinas virtuais e VPN. Também é interessante que você se familiarize com as possibilidades de carreira na área de segurança da informação. Conhecer as diferentes áreas e funções permitirá que você direcione seus estudos de acordo com seus objetivos profissionais. 
 
-- ### [Tutorial de como usar o TryHackMe](https://tryhackme.com/room/tutorial)
+- ### [Tutorial de como usar o TryHackMe](https://tryhackme.com/room/tutorial)✅
 - ### [Carreiras na área de segurança](https://tryhackme.com/room/startingoutincybersec) ✅
 - ### [Introdução à Segurança Ofensiva](https://tryhackme.com/room/introtooffensivesecurity) ✅
 
@@ -25,7 +25,7 @@ O sistema operacional Linux é muito utilizado em CTFs e é fundamental que voc�
 As técnicas de reconhecimento e enumeração são fundamentais em testes de penetração. Elas ajudam a identificar hosts e serviços em uma rede, bem como a coletar informações sobre alvos específicos. Dentre as técnicas utilizadas, destacam-se o reconhecimento ativo, que envolve a exploração de vulnerabilidades conhecidas em aplicações e sistemas operacionais, e o uso de ferramentas como o Nmap e o ffuf para mapear redes, identificar serviços e vulnerabilidades.
 
 - ### [Reconhecimento Ativo](https://tryhackme.com/room/activerecon) ✅
-- ### [Nmap](https://tryhackme.com/room/furthernmap) 
+- ### [Nmap](https://tryhackme.com/room/furthernmap)✅
 - ### [ffuf](https://tryhackme.com/room/ffuf)
 
 # Web
